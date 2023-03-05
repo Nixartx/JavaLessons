@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
-Lesson5.iml
+
 
 ### Eclipse ###
 .apt_generated
@@ -13,7 +13,6 @@ Lesson5.iml
 .settings
 .springBeans
 .sts4-cache
-bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -29,3 +28,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### PROJECT SETTINGS ###
+Lesson5.iml
+*.sass
+bin/
+admin/
+config/
