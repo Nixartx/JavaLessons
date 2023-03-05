@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+Lesson5.iml
 
 ### Eclipse ###
 .apt_generated
